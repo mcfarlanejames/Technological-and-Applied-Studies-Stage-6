@@ -1,6 +1,6 @@
 # Technological and Applied Studies - Stage 6
 
-Welcome to the comprehensive educational reference repository for Stage 6 Technological and Applied Studies. This resource covers seven major areas of study designed to provide students with practical knowledge and skills across technological disciplines.
+Welcome to the comprehensive educational reference repository for Stage 6 Technological and Applied Studies. This resource covers seven major areas of study designed to provide students with practical knowledge, professional development, and career pathways across technological and applied disciplines.
 
 ## 📚 Subject Areas
 
@@ -38,7 +38,7 @@ Software development, design patterns, and best practices
 <td width="50%">
 
 ### Engineering Studies
-![Engineering Studies - Technical drawings and CAD design visualization](./images/engineering-studies.png)
+![Engineering Studies - Technical drawings and CAD design visualisation](./images/engineering-studies.png)
 
 **[Engineering Studies](./Engineering-Studies.md)**
 Mechanical, civil, and electrical engineering principles
@@ -69,7 +69,7 @@ Manufacturing processes, automation, and Industry 4.0
 <td colspan="2">
 
 ### Computing Applications
-![Computing Applications - Data visualization dashboard with analytics and digital interfaces](./images/computing-applications.png)
+![Computing Applications - Data visualisation dashboard with analytics and digital interfaces](./images/computing-applications.png)
 
 **[Computing Applications](./Computing-Applications.md)**
 Practical computing across business, healthcare, and analytics
@@ -115,4 +115,4 @@ Whether you're exploring career options, completing coursework, or seeking deepe
 **Version:** 1.0
 
 ### 🎨 About the Images
-The images in this repository were AI-generated to represent each subject area visually. They are used for educational purposes to enhance student engagement and understanding of each technological discipline.
+The images in this repository were AI-generated to represent each subject area visually. They are used for educational purposes to enhance student engagement and understanding of each technological field.

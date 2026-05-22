@@ -1,7 +1,7 @@
 # Computing Applications
 
 ## Overview
-Computing Applications focuses on the practical use of computing technology across diverse domains and industries. It explores how computational thinking, software, and digital systems solve real-world problems and create value across various sectors.
+Computing Applications focuses on the practical use of computing technology across diverse domains and industries. It explores how computational thinking, software, and digital systems solve real-world problems and drive innovation across sectors.
 
 ## Learning Objectives
 By studying Computing Applications, students will:

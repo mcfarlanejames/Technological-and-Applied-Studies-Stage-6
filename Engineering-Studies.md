@@ -1,7 +1,7 @@
 # Engineering Studies
 
 ## Overview
-Engineering Studies encompasses the application of scientific and mathematical principles to design, build, and improve structures, machines, systems, and processes. It covers multiple disciplines that solve real-world problems through innovative solutions.
+Engineering Studies encompasses the application of scientific and mathematical principles to design, build, and improve structures, machines, systems, and processes. It covers multiple disciplines and emphasises problem-solving, innovation, and real-world application.
 
 ## Learning Objectives
 By studying Engineering Studies, students will:
@@ -47,7 +47,7 @@ By studying Engineering Studies, students will:
 - Fluid flow in pipes and equipment
 - Reactors and chemical processes
 - Environmental and safety considerations
-- Plant design and optimization
+- Plant design and optimisation
 
 ### 5. Materials Science and Engineering
 - Material properties and classification
@@ -56,7 +56,7 @@ By studying Engineering Studies, students will:
 - Ceramics and glasses
 - Material selection and design
 - Corrosion and degradation
-- Testing and characterization
+- Testing and characterisation
 
 ### 6. Engineering Design Process
 - Problem definition and analysis
@@ -64,7 +64,7 @@ By studying Engineering Studies, students will:
 - Conceptual design
 - Detailed design
 - Prototyping and testing
-- Refinement and optimization
+- Refinement and optimisation
 - Documentation and specifications
 
 ### 7. Technical Mathematics and Analysis
@@ -72,7 +72,7 @@ By studying Engineering Studies, students will:
 - Linear algebra and matrices
 - Numerical methods
 - Statistical analysis
-- Computational modeling
+- Computational modelling
 - Finite element analysis (FEA)
 - Simulation and prediction
 
@@ -81,9 +81,9 @@ By studying Engineering Studies, students will:
 - Orthographic projection
 - Isometric and perspective views
 - Computer-aided design (CAD) software
-- 3D modeling
+- 3D modelling
 - Documentation and blueprints
-- Design visualization
+- Design visualisation
 
 ### 9. Project Management and Teamwork
 - Project planning and scheduling
@@ -117,7 +117,7 @@ By studying Engineering Studies, students will:
 - Analytical and mathematical thinking
 - Problem-solving and innovation
 - Technical communication
-- Design and visualization
+- Design and visualisation
 - Project management
 - Teamwork and collaboration
 - Safety awareness
@@ -163,9 +163,9 @@ By studying Engineering Studies, students will:
 - Digital twins and simulation
 
 ## Further Learning Resources
-- Engineering degree programs (bachelor's, master's)
-- Professional engineer licensing programs
-- Technical certifications and specialized training
+- Engineering degree programmes (bachelor's, master's)
+- Professional engineer licensing programmes
+- Technical certifications and specialised training
 - Industry conferences and workshops
 - Case studies and project portfolios
 - Open-source engineering tools

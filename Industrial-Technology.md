@@ -1,7 +1,7 @@
 # Industrial Technology
 
 ## Overview
-Industrial Technology focuses on the practical application of technology in manufacturing, production, and industrial operations. It encompasses automation, process optimization, maintenance, and modern manufacturing techniques.
+Industrial Technology focuses on the practical application of technology in manufacturing, production, and industrial operations. It encompasses automation, process optimisation, maintenance, and modern Industry 4.0 practices.
 
 ## Learning Objectives
 By studying Industrial Technology, students will:
@@ -49,7 +49,7 @@ By studying Industrial Technology, students will:
 - Waste elimination (8 types of waste)
 - Just-In-Time (JIT) production
 - Continuous improvement (Kaizen)
-- 5S methodology (Sort, Set, Shine, Standardize, Sustain)
+- 5S methodology (Sort, Set, Shine, Standardise, Sustain)
 - Value stream mapping
 - Six Sigma and quality control
 
@@ -59,7 +59,7 @@ By studying Industrial Technology, students will:
 - Demand forecasting
 - Warehouse operations
 - Distribution and logistics
-- Supply chain optimization
+- Supply chain optimisation
 
 ### 7. Industrial Safety and Environment
 - OSHA standards and compliance
@@ -103,7 +103,7 @@ By studying Industrial Technology, students will:
 - Welding equipment
 - Precision measuring instruments
 - PLC programming software
-- Oscilloscopes and multimeters
+- Oscilloscopes and multimetres
 - Thermal imaging cameras
 - Maintenance management software
 
@@ -124,7 +124,7 @@ By studying Industrial Technology, students will:
 - OHSAS 18001 (Occupational Health and Safety)
 - IEC standards for electrical equipment
 - NFPA standards for safety
-- Certification programs (CNC, Welding, etc.)
+- Certification programmes (CNC, Welding, etc.)
 
 ## Industry 4.0 and Modern Trends
 - Smart manufacturing
@@ -136,7 +136,7 @@ By studying Industrial Technology, students will:
 - Additive manufacturing advancement
 
 ## Further Learning Resources
-- Technical vocational programs
+- Technical vocational programmes
 - Equipment manufacturer training
 - Industry certifications and apprenticeships
 - Plant tours and internships

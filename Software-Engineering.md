@@ -1,7 +1,7 @@
 # Software Engineering
 
 ## Overview
-Software Engineering is the systematic application of engineering principles to software development. It encompasses design methodologies, quality assurance, project management, and best practices to create reliable, scalable, and maintainable software systems.
+Software Engineering is the systematic application of engineering principles to software development. It encompasses design methodologies, quality assurance, project management, and best practices for creating reliable, maintainable software systems.
 
 ## Learning Objectives
 By studying Software Engineering, students will:
@@ -32,7 +32,7 @@ By studying Software Engineering, students will:
 ### 3. Software Design
 - Design patterns (MVC, singleton, factory, observer, etc.)
 - Architectural design (layered, microservices, monolithic)
-- Database design and normalization
+- Database design and normalisation
 - API design and RESTful principles
 - Design documentation and diagrams (UML)
 - Code reusability and modularity
@@ -92,7 +92,7 @@ By studying Software Engineering, students will:
 - Communication and teamwork
 - Attention to detail
 - Adaptability and continuous learning
-- Time management and organization
+- Time management and organisation
 - Documentation skills
 - Testing and debugging ability
 - System thinking
@@ -110,7 +110,7 @@ By studying Software Engineering, students will:
 - DRY (Don't Repeat Yourself)
 - KISS (Keep It Simple, Stupid)
 - YAGNI (You Aren't Gonna Need It)
-- Design patterns (creational, structural, behavioral)
+- Design patterns (creational, structural, behavioural)
 
 ## Career Paths
 - Software developer/engineer
@@ -139,7 +139,7 @@ By studying Software Engineering, students will:
 
 ## Emerging Trends
 - Cloud-native development
-- Containerization (Docker, Kubernetes)
+- Containerisation (Docker, Kubernetes)
 - Microservices architecture
 - Low-code/no-code platforms
 - AI-assisted development
@@ -149,13 +149,13 @@ By studying Software Engineering, students will:
 
 ## Further Learning Resources
 - Online coding platforms (LeetCode, HackerRank)
-- University computer science programs
+- University computer science programmes
 - Bootcamps and intensive courses
 - Open-source project contributions
 - Certifications and professional courses
 - Technical conferences and meetups
 - Books and technical blogs
-- Mentorship programs
+- Mentorship programmes
 
 ---
 

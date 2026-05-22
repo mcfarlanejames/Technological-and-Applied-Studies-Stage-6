@@ -1,7 +1,7 @@
 # Enterprise Computing
 
 ## Overview
-Enterprise Computing encompasses the large-scale IT systems and infrastructure used by organizations to manage business operations, data, and communications. It focuses on scalability, reliability, and integration across multiple systems.
+Enterprise Computing encompasses the large-scale IT systems and infrastructure used by organisations to manage business operations, data, and communications. It focuses on scalability, reliability, integration, and strategic technology alignment with business objectives.
 
 ## Learning Objectives
 By studying Enterprise Computing, students will:
@@ -17,13 +17,13 @@ By studying Enterprise Computing, students will:
 - Enterprise resource planning (ERP) systems
 - System integration and middleware
 - Service-oriented architecture (SOA)
-- Microservices and containerization
+- Microservices and containerisation
 - Cloud computing platforms
-- Scalability and performance optimization
+- Scalability and performance optimisation
 
 ### 2. Database Management
 - Relational databases and SQL
-- Data modeling and schema design
+- Data modelling and schema design
 - Database administration and maintenance
 - Backup, recovery, and disaster planning
 - Data warehousing and data lakes
@@ -35,7 +35,7 @@ By studying Enterprise Computing, students will:
 - Routing and switching technologies
 - Virtual private networks (VPN)
 - Network security and firewalls
-- Cloud infrastructure and virtualization
+- Cloud infrastructure and virtualisation
 
 ### 4. Cybersecurity and Data Protection
 - Information security principles and policies
@@ -49,8 +49,8 @@ By studying Enterprise Computing, students will:
 - Data collection and integration
 - Data analysis and reporting
 - Business analytics and dashboards
-- Predictive modeling and forecasting
-- Data visualization
+- Predictive modelling and forecasting
+- Data visualisation
 - Decision support systems
 
 ### 6. Enterprise Applications
@@ -105,7 +105,7 @@ By studying Enterprise Computing, students will:
 - Cloud Platforms: AWS, Azure, Google Cloud
 
 ## Enterprise Technologies
-- Data centers and server infrastructure
+- Data centres and server infrastructure
 - Enterprise messaging systems
 - Load balancing and failover systems
 - Monitoring and management tools
@@ -133,7 +133,7 @@ By studying Enterprise Computing, students will:
 ## Further Learning Resources
 - Enterprise software certifications
 - IT and systems administration courses
-- Business degree programs
+- Business degree programmes
 - Cloud platform certifications (AWS, Azure, GCP)
 - Security certifications (Security+, CISSP)
 - Industry conferences and events

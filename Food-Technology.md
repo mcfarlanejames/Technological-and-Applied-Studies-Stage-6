@@ -1,7 +1,7 @@
 # Food Technology
 
 ## Overview
-Food Technology is the practical application of science and engineering principles to food production, processing, preservation, and distribution. It combines chemistry, microbiology, engineering, and nutrition to develop safe, quality food products.
+Food Technology is the practical application of science and engineering principles to food production, processing, preservation, and distribution. It combines chemistry, microbiology, engineering, and nutrition to create safe, quality food products.
 
 ## Learning Objectives
 By studying Food Technology, students will:
@@ -17,7 +17,7 @@ By studying Food Technology, students will:
 - Food composition (proteins, carbohydrates, fats, vitamins, minerals)
 - Chemical reactions in food preparation
 - Enzymatic processes and fermentation
-- Maillard reaction and caramelization
+- Maillard reaction and caramelisation
 - pH and acidity effects on food
 
 ### 2. Food Microbiology and Safety
@@ -29,7 +29,7 @@ By studying Food Technology, students will:
 - Testing and quality assurance
 
 ### 3. Food Processing and Preservation
-- Thermal processing (pasteurization, sterilization)
+- Thermal processing (pasteurisation, sterilisation)
 - Non-thermal preservation (freezing, drying, irradiation)
 - Canning and bottling techniques
 - Fermentation processes
@@ -42,7 +42,7 @@ By studying Food Technology, students will:
 - Ingredient functionality and interactions
 - Product shelf-life and stability testing
 - Consumer acceptance testing
-- Regulatory compliance and labeling
+- Regulatory compliance and labelling
 
 ### 5. Nutrition and Health
 - Macronutrient and micronutrient composition
@@ -70,7 +70,7 @@ By studying Food Technology, students will:
 
 ### 8. Food Regulations and Standards
 - Food safety regulations (FDA, FSANZ, EU standards)
-- Labeling requirements
+- Labelling requirements
 - Allergen declarations
 - Certification systems (ISO 22000, BRC)
 - Traceability and recall procedures
@@ -97,7 +97,7 @@ By studying Food Technology, students will:
 - Teamwork and collaboration
 
 ## Tools and Equipment
-- Laboratory equipment (scales, thermometers, pH meters)
+- Laboratory equipment (scales, thermometers, pH metres)
 - Microscopes and testing apparatus
 - Food processing machinery
 - Temperature and humidity monitoring devices
@@ -128,11 +128,11 @@ By studying Food Technology, students will:
 - Food technology innovation
 - Blockchain for food traceability
 - AI in quality control
-- Personalized nutrition
+- Personalised nutrition
 - Sustainable packaging innovations
 
 ## Further Learning Resources
-- Food science degree programs
+- Food science degree programmes
 - Industry workshops and seminars
 - Plant tours and internships
 - Professional certifications
