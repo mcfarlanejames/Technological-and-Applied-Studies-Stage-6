@@ -1,6 +1,6 @@
 # Technological and Applied Studies - Stage 6
 
-Welcome to the comprehensive educational reference repository for Stage 6 Technological and Applied Studies. This resource covers seven major areas of study designed to provide students with practical knowledge, professional development, and career pathways across technological and applied disciplines.
+Welcome to the comprehensive educational reference repository for Stage 6 Technological and Applied Studies. This resource covers seven major areas of study designed to provide students with practical knowledge and skills across technological and applied disciplines.
 
 ## 📚 Subject Areas
 
@@ -9,7 +9,7 @@ Welcome to the comprehensive educational reference repository for Stage 6 Techno
 <td width="50%">
 
 ### Food Technology
-![Food Technology - Modern laboratory with food science equipment and technology]([./images/food-technology.png](https://github.com/mcfarlanejames/Technological-and-Applied-Studies-Stage-6/blob/main/images/food-technology.png))
+![Food Technology - Modern laboratory with food science equipment and technology](https://github.com/mcfarlanejames/Technological-and-Applied-Studies-Stage-6/raw/main/images/food-technology.png)
 
 **[Food Technology](./Food-Technology.md)**
 Food science, safety, nutrition, and production technologies
