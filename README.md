@@ -1,16 +1,82 @@
 # Technological and Applied Studies - Stage 6
 
-Welcome to the comprehensive educational reference repository for Stage 6 Technological and Applied Studies. This resource covers seven major areas of study designed to provide students with practical knowledge and skills in modern technology and applied disciplines.
+Welcome to the comprehensive educational reference repository for Stage 6 Technological and Applied Studies. This resource covers seven major areas of study designed to provide students with practical knowledge and skills across technological disciplines.
 
 ## 📚 Subject Areas
 
-- **[Food Technology](./Food-Technology.md)** - Food science, safety, nutrition, and production technologies
-- **[Enterprise Computing](./Enterprise-Computing.md)** - Business systems, IT infrastructure, and organisational technology
-- **[Software Engineering](./Software-Engineering.md)** - Software development, design patterns, and best practices
-- **[Engineering Studies](./Engineering-Studies.md)** - Mechanical, civil, and electrical engineering principles
-- **[Design and Technology](./Design-and-Technology.md)** - Product design, CAD, prototyping, and innovation
-- **[Industrial Technology](./Industrial-Technology.md)** - Manufacturing processes, automation, and Industry 4.0
-- **[Computing Applications](./Computing-Applications.md)** - Practical computing across business, healthcare, and analytics
+<table>
+<tr>
+<td width="50%">
+
+### Food Technology
+![Food Technology - Modern laboratory with food science equipment and technology](./images/food-technology.png)
+
+**[Food Technology](./Food-Technology.md)**
+Food science, safety, nutrition, and production technologies
+
+</td>
+<td width="50%">
+
+### Enterprise Computing
+![Enterprise Computing - Modern office with cloud computing infrastructure and servers](./images/enterprise-computing.png)
+
+**[Enterprise Computing](./Enterprise-Computing.md)**
+Business systems, IT infrastructure, and organisational technology
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Software Engineering
+![Software Engineering - Developer workspace with code and digital interfaces](./images/software-engineering.png)
+
+**[Software Engineering](./Software-Engineering.md)**
+Software development, design patterns, and best practices
+
+</td>
+<td width="50%">
+
+### Engineering Studies
+![Engineering Studies - Technical drawings and CAD design visualization](./images/engineering-studies.png)
+
+**[Engineering Studies](./Engineering-Studies.md)**
+Mechanical, civil, and electrical engineering principles
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Design and Technology
+![Design and Technology - Product design workspace with 3D models and prototypes](./images/design-technology.png)
+
+**[Design and Technology](./Design-and-Technology.md)**
+Product design, CAD, prototyping, and innovation
+
+</td>
+<td width="50%">
+
+### Industrial Technology
+![Industrial Technology - Modern manufacturing facility with robotic automation](./images/industrial-technology.png)
+
+**[Industrial Technology](./Industrial-Technology.md)**
+Manufacturing processes, automation, and Industry 4.0
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### Computing Applications
+![Computing Applications - Data visualization dashboard with analytics and digital interfaces](./images/computing-applications.png)
+
+**[Computing Applications](./Computing-Applications.md)**
+Practical computing across business, healthcare, and analytics
+
+</td>
+</tr>
+</table>
 
 ## 🎯 About This Repository
 
@@ -47,3 +113,6 @@ Whether you're exploring career options, completing coursework, or seeking deepe
 **Last Updated:** May 2026  
 **Repository:** Technological and Applied Studies Stage 6  
 **Version:** 1.0
+
+### 🎨 About the Images
+The images in this repository were AI-generated to represent each subject area visually. They are used for educational purposes to enhance student engagement and understanding of each technological discipline.
