@@ -1,14 +1,14 @@
 # Computing Applications
 
 ## Overview
-Computing Applications focuses on the practical use of computing technology across diverse domains and industries. It explores how computational thinking, software, and digital systems solve real-world problems and create innovation.
+Computing Applications focuses on the practical use of computing technology across diverse domains and industries. It explores how computational thinking, software, and digital systems solve real-world problems and create value across various sectors.
 
 ## Learning Objectives
 By studying Computing Applications, students will:
 - Understand computing across multiple domains
 - Learn to apply computational thinking to problems
 - Master domain-specific software and tools
-- Develop skills in data analysis and visualization
+- Develop skills in data analysis and visualisation
 - Apply technology to business and personal contexts
 
 ## Core Topics
@@ -24,8 +24,8 @@ By studying Computing Applications, students will:
 ### 2. Data Analysis and Business Intelligence
 - Data collection and preparation
 - Exploratory data analysis (EDA)
-- Statistical analysis and modeling
-- Data visualization techniques
+- Statistical analysis and modelling
+- Data visualisation techniques
 - Dashboard and report creation
 - Predictive analytics
 
@@ -54,10 +54,10 @@ By studying Computing Applications, students will:
 - Digital content creation tools
 
 ### 6. Scientific and Engineering Computing
-- Computational modeling and simulation
+- Computational modelling and simulation
 - Scientific data analysis
 - Research software tools (MATLAB, Python)
-- Visualization of complex data
+- Visualisation of complex data
 - Numerical analysis
 - Bioinformatics applications
 
@@ -99,7 +99,7 @@ By studying Computing Applications, students will:
 - Streaming and entertainment services
 - Navigation and mapping applications
 - Weather forecasting systems
-- Transportation and logistics optimization
+- Transportation and logistics optimisation
 - Smart city infrastructure
 - Environmental monitoring
 - Genomics and biotechnology
@@ -148,9 +148,9 @@ By studying Computing Applications, students will:
 ## Industry Applications by Sector
 - **Finance:** Risk analysis, fraud detection, algorithmic trading
 - **Healthcare:** Diagnosis, treatment planning, patient monitoring
-- **Retail:** Customer analytics, inventory optimization, personalization
-- **Manufacturing:** Predictive maintenance, quality control, optimization
-- **Transportation:** Route optimization, autonomous systems, traffic management
+- **Retail:** Customer analytics, inventory optimisation, personalisation
+- **Manufacturing:** Predictive maintenance, quality control, optimisation
+- **Transportation:** Route optimisation, autonomous systems, traffic management
 - **Entertainment:** Content recommendation, streaming, gaming
 - **Energy:** Smart grids, demand forecasting, renewable management
 - **Agriculture:** Precision farming, crop monitoring, yield prediction
@@ -173,7 +173,7 @@ By studying Computing Applications, students will:
 - Domain-specific communities and forums
 - Professional conferences and events
 - Case studies and real-world projects
-- Internship programs in tech companies
+- Internship programmes in tech companies
 
 ---
 
