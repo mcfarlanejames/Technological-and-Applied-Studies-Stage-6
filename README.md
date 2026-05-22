@@ -5,7 +5,7 @@ Welcome to the comprehensive educational reference repository for Stage 6 Techno
 ## 📚 Subject Areas
 
 - **[Food Technology](./Food-Technology.md)** - Food science, safety, nutrition, and production technologies
-- **[Enterprise Computing](./Enterprise-Computing.md)** - Business systems, IT infrastructure, and organizational technology
+- **[Enterprise Computing](./Enterprise-Computing.md)** - Business systems, IT infrastructure, and organisational technology
 - **[Software Engineering](./Software-Engineering.md)** - Software development, design patterns, and best practices
 - **[Engineering Studies](./Engineering-Studies.md)** - Mechanical, civil, and electrical engineering principles
 - **[Design and Technology](./Design-and-Technology.md)** - Product design, CAD, prototyping, and innovation
