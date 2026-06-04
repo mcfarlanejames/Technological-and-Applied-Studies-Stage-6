@@ -1,5 +1,8 @@
 # Industrial Technology
 
+<img width="994" height="276" alt="Screenshot 2026-06-04 at 12 46 54 PM" src="https://github.com/user-attachments/assets/140320bd-a409-42bf-a93d-1573f24f35de" />
+
+
 ## Overview
 Industrial Technology focuses on the practical application of technology in manufacturing, production, and industrial operations. It encompasses automation, process optimisation, maintenance, and modern Industry 4.0 practices.
 
